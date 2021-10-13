@@ -31,7 +31,7 @@
 5. 원격, local repository 연결
    > git remote add origin https://github.com/Eungyeol41/TO_DO_LIST.git
 6. git에 push하기
-   > git push origin master
+   > git push origin master  
    > 처음에 할 때는 git push -u origin master
 
 # 합성이란 무엇인가
