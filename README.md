@@ -1,4 +1,8 @@
-# todoList에 login 부착하기
+# TodoList 만들기
+* TodoList 만들어서 Github page 업로드
+* 주소: https://eungyeol41.github.io/TO_DO_LIST/
+
+## todoList에 login 부착하기
 
 - todoList를 실행하면 로그인이 되었나 확인하고
 - login이 되었으면 todoList 화면을 보여주고
